@@ -1,9 +1,9 @@
-# 🚨 Incident Forensic Report: test
+# 🚨 Incident Forensic Report: TC02-Login-User-with-correct-email-and-password
 
 ## 📊 Executive Summary
-- **Test Case ID:** test 
-- **Browser Engine:** firefox
-- **Timestamp (UTC):** 2026-06-18T19:28:18.204Z
+- **Test Case ID:** TC02-Login-User-with-correct-email-and-password 
+- **Browser Engine:** chromium
+- **Timestamp (UTC):** 2026-06-18T19:51:33.780Z
 - **Status:** FAILED ❌
 - **Severity:** HIGH · **Clasificación:** SECURITY_COMPLIANCE_BREACH
 
@@ -35,10 +35,10 @@ Error: element(s) not found
 
 ## 🛡️ Security & Network Telemetry
 - **Network Errors (400+):** 0 endpoints failed during execution.
-- **Missing CSP Headers:** 32 assets loaded without Content-Security-Policy.
+- **Missing CSP Headers:** 21 assets loaded without Content-Security-Policy.
 
 ## 📁 Attached Evidence
 - **Visual Capture:** `screenshot.png`
 - **Forensic Video:** `video.webm`
 - **Raw Telemetry:** `telemetry.json`
-- **Folder:** `evidence/bug-reports/firefox/TC00_test_*/`
+- **Folder:** `evidence/bug-reports/chromium/TC02_loginuserwithcorrectemailandpassword_*/`
