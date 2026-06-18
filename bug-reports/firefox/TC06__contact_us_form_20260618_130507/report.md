@@ -3,7 +3,7 @@
 ## 📊 Executive Summary
 - **Test Case ID:** TC06_Contact_Us_Form 
 - **Browser Engine:** firefox
-- **Timestamp (UTC):** 2026-06-18T17:04:24.280Z
+- **Timestamp (UTC):** 2026-06-18T18:05:07.258Z
 - **Status:** FAILED ❌
 - **Severity:** HIGH · **Clasificación:** NETWORK_INFRASTRUCTURE
 
@@ -79,8 +79,8 @@ Timeout: 5000ms
 Call log:
 [2m  - Expect "toContainText" with timeout 5000ms[22m
 [2m  - waiting for locator('#contact-page')[22m
-[2m    2 × locator resolved to <div id="contact-page" class="container">…</div>[22m
-[2m      - unexpected value "[22m
+[2m    - locator resolved to <div id="contact-page" class="container">…</div>[22m
+[2m    - unexpected value "[22m
 [2m    	[22m
 [2m	    	[22m
 [2m	    		    			   			[22m
@@ -137,7 +137,7 @@ Call log:
 [2m    			    			[22m
 [2m	    	  [22m
 [2m    	"[22m
-[2m    11 × locator resolved to <div id="contact-page" class="container">…</div>[22m
+[2m    12 × locator resolved to <div id="contact-page" class="container">…</div>[22m
 [2m       - unexpected value "[22m
 [2m    	[22m
 [2m	    	[22m

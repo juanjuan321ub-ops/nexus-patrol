@@ -3,7 +3,7 @@
 ## 📊 Executive Summary
 - **Test Case ID:** TC06_Contact_Us_Form 
 - **Browser Engine:** chromium
-- **Timestamp (UTC):** 2026-06-18T17:14:10.713Z
+- **Timestamp (UTC):** 2026-06-18T18:07:04.848Z
 - **Status:** FAILED ❌
 - **Severity:** HIGH · **Clasificación:** SECURITY_COMPLIANCE_BREACH
 
@@ -79,7 +79,7 @@ Timeout: 5000ms
 Call log:
 [2m  - Expect "toContainText" with timeout 5000ms[22m
 [2m  - waiting for locator('#contact-page')[22m
-[2m    5 × locator resolved to <div id="contact-page" class="container">…</div>[22m
+[2m    2 × locator resolved to <div id="contact-page" class="container">…</div>[22m
 [2m      - unexpected value "[22m
 [2m    	[22m
 [2m	    	[22m
@@ -137,8 +137,8 @@ Call log:
 [2m    			    			[22m
 [2m	    	  [22m
 [2m    	"[22m
-[2m    8 × locator resolved to <div id="contact-page" class="container">…</div>[22m
-[2m      - unexpected value "[22m
+[2m    11 × locator resolved to <div id="contact-page" class="container">…</div>[22m
+[2m       - unexpected value "[22m
 [2m    	[22m
 [2m	    	[22m
 [2m	    		    			   			[22m
@@ -210,7 +210,7 @@ Timeout: 5000ms
 
 ## 🛡️ Security & Network Telemetry
 - **Network Errors (400+):** 0 endpoints failed during execution.
-- **Missing CSP Headers:** 121 assets loaded without Content-Security-Policy.
+- **Missing CSP Headers:** 122 assets loaded without Content-Security-Policy.
 
 ## 📁 Attached Evidence
 - **Visual Capture:** `screenshot.png`

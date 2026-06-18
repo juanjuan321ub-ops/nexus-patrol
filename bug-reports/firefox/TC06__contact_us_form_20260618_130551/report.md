@@ -2,10 +2,10 @@
 
 ## 📊 Executive Summary
 - **Test Case ID:** TC06_Contact_Us_Form 
-- **Browser Engine:** webkit
-- **Timestamp (UTC):** 2026-06-18T17:11:19.028Z
+- **Browser Engine:** firefox
+- **Timestamp (UTC):** 2026-06-18T18:05:51.497Z
 - **Status:** FAILED ❌
-- **Severity:** HIGH · **Clasificación:** SECURITY_COMPLIANCE_BREACH
+- **Severity:** HIGH · **Clasificación:** NETWORK_INFRASTRUCTURE
 
 ## 🔍 Context of the Failure (The "Why")
 **System Error Triggered:**
@@ -209,11 +209,11 @@ Timeout: 5000ms
 ```
 
 ## 🛡️ Security & Network Telemetry
-- **Network Errors (400+):** 0 endpoints failed during execution.
-- **Missing CSP Headers:** 111 assets loaded without Content-Security-Policy.
+- **Network Errors (400+):** 2 endpoints failed during execution.
+- **Missing CSP Headers:** 125 assets loaded without Content-Security-Policy.
 
 ## 📁 Attached Evidence
 - **Visual Capture:** `screenshot.png`
 - **Forensic Video:** `video.webm`
 - **Raw Telemetry:** `telemetry.json`
-- **Folder:** `evidence/bug-reports/webkit/TC06__contact_us_form_*/`
+- **Folder:** `evidence/bug-reports/firefox/TC06__contact_us_form_*/`
